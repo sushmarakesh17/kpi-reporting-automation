@@ -1,34 +1,67 @@
 # KPI Reporting Automation
 
-## Objective
-Automate business reporting by cleaning raw data,
-calculating KPIs and generating Excel reports.
+## 📌 Project Overview
 
-## Tools
+This project demonstrates an automated reporting workflow using Python to clean raw data, calculate key performance indicators (KPIs), and generate summary reports. The solution reduces manual effort and improves reporting accuracy.
+
+---
+
+## 🎯 Business Problem
+
+Manual KPI reporting is time-consuming and prone to errors. This project automates repetitive reporting tasks, enabling faster and more reliable business insights.
+
+---
+
+## 🛠️ Tools & Technologies
+
 - Python
 - Pandas
-- OpenPyXL
-- Streamlit
+- Microsoft Excel
+- Jupyter Notebook
 
-## KPIs Generated
-- Total Employees
-- Task Completion Rate
-- Sales Achievement %
-- SLA Compliance %
-- Productivity Score
+---
 
-## Run Project
+## 📊 Project Workflow
 
-Install requirements:
+- Data Cleaning
+- KPI Calculation
+- Summary Report Generation
+- Automated Reporting
+- Data Validation
 
-pip install -r requirements.txt
+---
 
+## 📂 Dataset
 
-Generate Excel Report:
+The dataset includes:
 
-python kpi_automation.py
+- Employee/Department
+- Performance Metrics
+- KPI Values
+- Reporting Period
+- Target vs Actual
 
+---
 
-Run Dashboard:
+## 💡 Key Insights
 
-streamlit run app.py
+- Reduced manual reporting effort.
+- Improved data consistency.
+- Automated KPI calculations.
+- Generated business-ready summary reports.
+
+---
+
+## 📁 Files Included
+
+- KPI_Reporting_Automation.ipynb
+- KPI_Data.xlsx
+- Project_Report.pdf
+
+---
+
+## 👩‍💻 Author
+
+**Sushma Rakesh**
+
+Power BI | SQL | Python | Business Analytics | GenAI
